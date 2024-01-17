@@ -433,7 +433,40 @@ ul li a:hover{
     color: #ff5900;
 }
 .foot {
+    color: #000;
     background-color: #561C59;
     width: 1518px;
-    height: 20px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+    font-size: 35px;
 }
+
+.green {
+    width: 100%;
+    background-image: url(Greeen.jpg);
+     /**linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),**/
+    background-position: center;
+    background-size: cover;
+    height:500px;
+    
+}
+.farmer1 {
+    background-image: url(Greenfa);
+    background-position: center;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    border-left-color: #ff5900;
+    border-right-color: #ff5900;
+    margin-left: 700px;
+    margin-top: 150px;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+}
+.heading {
+    color: #ff5900;
+}
+
