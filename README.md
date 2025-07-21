@@ -16,7 +16,10 @@ AgriChoice is a farmer-centric frontend web application designed to provide intu
   HTML  
   CSS  
   JavaScript
+  
+## 📸 Screenshot
 
+![AgriChoice Homepage](https://github.com/user-attachments/assets/0235ca88-6b4e-4966-82d4-d650438b457f)
 
 
 
